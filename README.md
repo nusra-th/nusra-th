@@ -25,37 +25,6 @@ Currently, I'm working as a **Robotic Production Intern**, gaining hands-on expe
 
 ---
 
-## 🛠️ Technologies & Tools
-
-**AI & Programming**
-- Python
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-
-**Robotics**
-- ROS 1
-- ROS 2
-- Robotic Systems
-- Automation
-
-**Design & Prototyping**
-- 3D Design
-- 3D Modeling
-- 3D Printing
-
-**Automation**
-- Robotic Process Automation (RPA)
-- Process Automation
-
-**Development Tools**
-- Git
-- GitHub
-- VS Code
-- Arduino
-
----
-
 ## 🔭 Currently Exploring
 
 I'm continuously expanding my knowledge and looking forward to exploring:
